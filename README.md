@@ -1,2 +1,1 @@
-# .github
-Main page
+Hello! We are CMC!
